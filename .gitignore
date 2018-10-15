@@ -1,3 +1,4 @@
 .idea/
 resources/*.emb
 datasets/conll2003/
+.DS_Store
