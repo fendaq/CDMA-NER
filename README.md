@@ -85,4 +85,4 @@ For more details and experiments, please refer to our paper "Neural Adaptation L
 }
 ``` 
 
-The pre-processing and general utils follows [this blog](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html). 
+Some of the pre-processing and general utils are inspired by [this blog](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html). 
